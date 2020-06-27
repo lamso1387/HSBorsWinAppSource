@@ -1,0 +1,2 @@
+insert into products(creator_id,create_date, [user_id],produce_date, image_link,explain,unit,[count],[status],[type],model)
+values (2050130351,'2020-01-01',4,'2020-01-01', 'test','ÎæÔãÒå','kg',50,'created','porteghal','khoni')

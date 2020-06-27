@@ -1,0 +1,5 @@
+﻿{
+"hsbors_base_address":"https://localhost:44340/",
+"hsbors_base_address1":"http://194.5.175.232/" ,
+"hsbors_base_address1":"http://localhost:8081/" 
+}
